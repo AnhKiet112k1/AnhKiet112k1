@@ -1,16 +1,16 @@
-### Hi there 👋
+### About me
 
-<!--
-**AnhKiet112k1/AnhKiet112k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Studying Computer Science in Ho Chi Minh City University of Technology
+- Dream job: Business Analyst
+- Language: Vietnamese, English
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front-end: HTML/CSS, Javascript, ReactJS
+- Back-end: PHP, Javascript, NodeJS, Python
+- Database: MySQL, MongoDB, Amazon Redshift, Microsoft SQL Server, SQLite
+
+### Contact
+
+- Phone: 0775840600
+- Email: kiet.nguyen112k1@hcmut.edu.vn or nguyenanhkiet010101@gmail.com
