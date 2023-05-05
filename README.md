@@ -1,7 +1,6 @@
 ### About me
 
 - Studying Computer Science in Ho Chi Minh City University of Technology
-- Dream job: Business Analyst
 - Language: Vietnamese, English
 
 ### Skills
