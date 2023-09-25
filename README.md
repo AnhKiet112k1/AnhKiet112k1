@@ -1,13 +1,16 @@
 ### About me
 
 - Studying Computer Science in Ho Chi Minh City University of Technology
-- Language: Vietnamese, English
+- English: 
+  + TOEIC Listening & Reading 890
+  + TOEIC Writing & Speaking 280
 
 ### Skills
 
 - Front-end: HTML/CSS, Javascript, ReactJS
-- Back-end: PHP, Javascript, NodeJS, Python
-- Database: MySQL, MongoDB, Amazon Redshift, Microsoft SQL Server, SQLite
+- Back-end: PHP, Python, Javascript, NodeJS
+- Database: MySQL, MongoDB, Microsoft SQL Server, Amazon Redshift, SQLite
+- Others: Github, Power BI, Looker, Excel, PowerPoint, Word, Latex
 
 ### Contact
 
