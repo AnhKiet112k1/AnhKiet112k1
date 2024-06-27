@@ -7,10 +7,10 @@
 
 ### Skills
 
-- Front-end: HTML/CSS, Javascript, ReactJS
-- Back-end: PHP, Python, Javascript, NodeJS
-- Database: MySQL, MongoDB, Microsoft SQL Server, Amazon Redshift, SQLite
-- Others: Github, Power BI, Looker, Excel, PowerPoint, Word, Latex
+- Front-end: HTML, CSS, Javascript, React, MUI, Bootstrap
+- Back-end: Node.js, Express.js, PHP, Python
+- Database: MongoDB, MySQL, Microsoft SQL Server
+- Others: Figma, Diagram Drawing Tools, Cloud Services, WPS Office
 
 ### Contact
 
